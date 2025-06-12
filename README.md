@@ -49,7 +49,3 @@ npm run dev
 1. Verify API key is set
 2. Check if API limit is reached
 3. Check browser console errors (F12)
-
----
-
-Simple movie search app. Nothing fancy.
