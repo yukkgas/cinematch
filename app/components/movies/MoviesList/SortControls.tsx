@@ -1,4 +1,3 @@
-// components/movies/SortControls.tsx
 "use client";
 
 interface SortControlsProps {
