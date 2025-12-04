@@ -19,7 +19,7 @@ Basic movie search application.
 
 1. Clone repo:
 ```bash
-git clone https://github.com/your-username/cinematch.git
+git clone https://github.com/yukkgas/cinematch.git
 cd cinematch
 ```
 
